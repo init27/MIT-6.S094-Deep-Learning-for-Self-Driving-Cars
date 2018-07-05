@@ -11,3 +11,6 @@ These are the Lecture notes and materials for the [MIT 6.S094: Deep Learning for
 [Link to Lecture 4 Notes on Medium (with Images)](https://medium.com/@init_27/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-4-notes-computer-vision-f591f14b3b99)
 
 [Link to Lecture 5 Notes on Medium (with Images)](https://medium.com/@init_27/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-5-notes-deep-learning-for-human-5cb0f53e4f15)
+
+
+[Jupyter Notebooks containing the Markdown]()
